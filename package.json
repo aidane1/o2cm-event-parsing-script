@@ -1,0 +1,28 @@
+{
+  "name": "o2cm-event-parsing-script",
+  "version": "1.0.0",
+  "description": "Parse event heat sheets from O2CM competitors list",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidane1/o2cm-event-parsing-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidane1/o2cm-event-parsing-script/issues"
+  },
+  "homepage": "https://github.com/aidane1/o2cm-event-parsing-script#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "chalk": "^5.4.1",
+    "cheerio": "^1.0.0",
+    "form-data": "^4.0.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "type": "module"
+}
